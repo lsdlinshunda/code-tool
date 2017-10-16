@@ -25,7 +25,7 @@
 
 执行目录下的```code tool.py```启动程序，程序启动后出现图形界面
  
- ![image](http://chuantu.biz/t6/99/1508140593x3396866884.png)
+ ![image](http://chuantu.biz/t6/99/1508142760x2728309573.png)
 
  #### 界面说明：
 
